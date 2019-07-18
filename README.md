@@ -1,2 +1,2 @@
-# juliemoy.github.io
-Website
+# Hi, I'm Julie
+Welcome to my website
