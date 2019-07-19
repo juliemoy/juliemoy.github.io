@@ -12,14 +12,13 @@ body, html {
   /*Image used*/
   background-image: url("IMG_5919.png");
 
+  /*Full height*/
+  height: 200%;
+
+
   /*Add blur effect*/
   filter: blur(8px);
   -webkit-filter: blur(8px);
-
-  /*Full height*/
-
-  height: 100%;
-
 
   /* Center and scale image */
   background-position: center;
