@@ -31,8 +31,9 @@ body, html {
   background-color: rgb(0,0,0); /*fallback color*/
   background-color: rgba(0,0,0, 0.4); /* black with opacity */
   color: white;
-  font-weight: bold;
+  letter-spacing: 0.15em;
   border: 3px solid #f1f1f1;
+  border-radius: 10px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -45,4 +46,5 @@ body, html {
 
 h1 {
   font-size: 50px;
+  font-weight: bold;
 }
